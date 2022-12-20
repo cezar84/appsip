@@ -1,0 +1,13 @@
+/ *!
+ * IE10 viewport hack para superfície / área de trabalho do Windows 8 bug
+ * Copyright 2014-2015 Twitter, Inc.
+ * Licenciado sob o MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * /
+
+/ *
+ * Consulte os documentos do Primeiros passos para mais informações:
+ * http://getbootstrap.com/getting-started/#support-ie10-width
+ * /
+@ -ms-viewport {largura: largura do dispositivo; }
+@ -o-viewport {largura: largura do dispositivo; }
+@viewport {largura: largura do dispositivo; }

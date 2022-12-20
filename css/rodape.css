@@ -1,0 +1,16 @@
+rodape{
+text-align:center;
+font-family:tahoma;
+font-size:15px;
+}
+
+
+.footer {
+	padding: 20px 40px 80px 15px;
+    position:absolute;
+    bottom:0;
+    //width:100%;
+	
+	
+	
+}
